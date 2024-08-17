@@ -1,0 +1,15 @@
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\bin\Debug\net8.0\Delosi.BL.deps.json
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\bin\Debug\net8.0\Delosi.BL.dll
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\bin\Debug\net8.0\Delosi.BL.pdb
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\bin\Debug\net8.0\Delosi.DA.dll
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\bin\Debug\net8.0\Delosi.DA.pdb
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.csproj.AssemblyReference.cache
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.AssemblyInfoInputs.cache
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.AssemblyInfo.cs
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.csproj.CoreCompileInputs.cache
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.csproj.Up2Date
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.dll
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\refint\Delosi.BL.dll
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\Delosi.BL.pdb
+C:\Proyectos\Yukiix\Delosi\Delosi.BL\obj\Debug\net8.0\ref\Delosi.BL.dll

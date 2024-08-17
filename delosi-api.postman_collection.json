@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "f11ec198-8eb6-4d34-b418-61d5192d9779",
+		"name": "Delosi API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28315957"
+	},
+	"item": [
+		{
+			"name": "RotarMatriz",
+			"item": [
+				{
+					"name": "MatrizAntihorario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:59437/api/RotarMatriz",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "59437",
+							"path": [
+								"api",
+								"RotarMatriz"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
